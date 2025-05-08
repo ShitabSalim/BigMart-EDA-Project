@@ -67,3 +67,7 @@ The EDA includes:
    git clone https://github.com/your-username/BigMart-EDA-Project.git
    cd BigMart-EDA-Project
    ```
+2. Open the notebook:
+  ```bash
+jupyter notebook EDA_on_Bigmart_dataset.ipynb
+```
