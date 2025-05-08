@@ -72,5 +72,7 @@ The EDA includes:
 jupyter notebook EDA_on_Bigmart_dataset.ipynb
 ```
 ## 🙌 Credits
-Project by Md Shitab Salim
+Project by Md Shitab Salim <br>
 Supervised by: Coding Ninjas
+## 📬 Contact
+For queries or collaboration, reach out at aatirsalim1910@gmail.com.
